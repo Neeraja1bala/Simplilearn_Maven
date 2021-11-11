@@ -7,7 +7,7 @@
  <parameter name="Password" value="A@123dfasdf"/>
  <parameter name="CorrectPassword" value="A@123dfasdf"/>
     <classes>
-      <class name="test.LoginTest"/>
+      <class name="tests.LoginTest"/>
       
       
     </classes>
